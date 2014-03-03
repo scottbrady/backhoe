@@ -1,0 +1,32 @@
+{
+  "name": "backhoe",
+  "version": "0.0.1",
+  "description": "Module to clear the commonjs module cache and mock modules.",
+  "author": {
+    "name": "Scott Brady",
+    "email": "scott@sbrady.com"
+  },
+  "keywords": [
+    "mock",
+    "module",
+    "cache",
+    "testing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottbrady/backhoe"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/scottbrady/backhoe/blob/master/LICENSE"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/scottbrady/backhoe/issues"
+  },
+  "homepage": "https://github.com/scottbrady/backhoe"
+}
