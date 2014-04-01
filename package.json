@@ -1,6 +1,6 @@
 {
   "name": "backhoe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module to clear the commonjs module cache and mock modules.",
   "author": {
     "name": "Scott Brady",
